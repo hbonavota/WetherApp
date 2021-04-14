@@ -1,0 +1,33 @@
+.navbar {
+  background-color:rgb(37, 30, 30);
+  display: flex;
+  margin: 10px;
+  
+}
+.textNav{
+  color: rgb(237, 243, 243);
+  float: right;
+  display: block;
+  flex-wrap: wrap;
+}
+.title{
+  color: rgb(237, 243, 243);
+  display: inline-block;
+}
+.title:hover{
+  lighting-color: aliceblue;
+}
+.logo{
+  border-radius: 10px;
+  display: float;
+  width: 80px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+
+}
+.input{
+  margin-top: 30px;
+  display: block;
+  float: left;
+  border-radius: 10px;
+}
